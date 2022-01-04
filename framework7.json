@@ -1,0 +1,19 @@
+{
+  "cwd": "/Users/rickysut/Development/blegw",
+  "type": [
+    "pwa"
+  ],
+  "name": "Gateway BLE",
+  "framework": "core",
+  "template": "tabs",
+  "bundler": false,
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#698e66",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
